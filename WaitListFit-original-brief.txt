@@ -1,0 +1,186 @@
+okay following is new site. name is WaitListFit **waitlistfit.com**. I want to create human made looking premium saas website which has high motion animation and its userbased scrollbased website where user user goes through the website as if its story. it shouldnt look like genric AI slope. please read following brief carefully and do a research on it then i want you to create IA for this do resaerch on how the structure of these websites are and make sure the structure.has everything that following brief has nothing should be left out. You can refer to md file uploaded in this chat as reference but it shouldnt override the following brief.see this site how the bg is changing how there is one continue bg how there is elemets which are moving typing theres shades and motions and it feels like a user story [https://joindawn.com](https://joindawn.com)  we have to create same for the whole website. First validation target: Specialty practice administrators, access departments and practice-management consultants; offer a one-week cancellation replay. check the complete brief in the pasted section## 22. Clinic Capacity Agent\
+\
+\- \*\*Buyer / pain.\*\* Multi-site ambulatory access director or specialty-practice COO: mismatched demand and appointment templates, cancellations, referral leakage and phone scheduling labor. ONC appointment data and schedule data show interoperable data concepts, \*\*not\*\* a guaranteed write-enabled scheduling API.\
+\- \*\*Alternatives / adjacent competitors.\*\* EHR native scheduling, call-center teams, spreadsheets and online self-scheduling; Qventus surgical-services offering attacks capacity operations in another setting, and Kyruus digital self-service addresses patient access. Distinguish specialty template allocation from a generic front door.\
+\- \*\*Acquisition channels.\*\* Specialty group administrators, health-system access departments, practice-management consultants and EHR marketplace/integration partners; co-sell with referral coordinators where access delays are visible.\
+\- \*\*Five sellable modules.\*\* (1) Capacity and template visibility; (2) cancellation-fill candidate queue with opt-in outreach drafts; (3) referral triage/routing \*for staff approval\*; (4) procedure/resource constraint simulator; (5) access-equity and leakage analytics by clinic/location/patient segment.\
+\- \*\*Differentiated demo / website cues.\*\* Render a clinic day as a constraint map: clinician, room, visit length, equipment, eligibility, transport and language needs; simulate a cancellation and show the rationale before a scheduler approves the replacement. Avoid a generic calendar screenshot.\
+\- \*\*Pre-build demand test / commitment.\*\* Ask two specialty groups for historical appointment, cancellation and waitlist exports; manually simulate fill opportunities and compare against schedulers' choices. Obtain a paid pilot letter tied to authorized export/interface access and a measured slot-fill or scheduler-time endpoint.\
+\- \*\*TAM / expansion hypothesis.\*\* Start with one specialty's capacity layer, then cross-location resource allocation and referral access workflows; price architecture may track sites/providers/workflow volume, subject to buyer testing. No total market estimate.\
+\- \*\*Barriers / evidence / gaps.\*\* \*\*Medium\*\* for adjacent product existence; \*\*low\*\* for incremental ROI. Scheduling write-back rights, real-time accuracy, specialty-specific rules, fairness of outreach, provider template ownership and payer/authorization constraints can defeat automation. Identify the actual EHR and permission path before promising booking.\
+\
+!Concept 22 — website and product preview. Synthetic example records only; not an operating product.\
+\
+Concept 22 — website and product preview. Synthetic example records only; not an operating product.\
+\
+\## Builder execution brief — research-stage draft\
+\
+Concept #22; working concept: Clinic Capacity Agent. Proposed brand: Appointment Dock; .com: appointmentdock.com. Verisign RDAP returned HTTP 404 at research time (no registry record); unpurchased and no trademark clearance. Recheck with registrar and legal review before using.\
+\
+Research and proposed product/previews only. No demand, million-dollar revenue, real customers, live integrations, published website or pricing acceptance has been demonstrated. Pilot prices below are test hypotheses, not actual current offers.\
+\
+\### Tagline\
+\
+Make specialty appointment capacity visible before a scheduler fills the slot.\
+\
+\### Basic info\
+\
+US-first B2B concept; working title only (name, trademark and domain unverified). Decision buyer: Multi-site specialty-practice COO or ambulatory access director; scheduler manager is the daily operator. Category alternatives: Native EHR scheduling, Kyruus self-service, and Qventus capacity tools in adjacent surgical operations. No revenue, adoption, efficacy or compliance claim is established. Source research: healthcare.md section 22.\
+\
+\### Vision\
+\
+Make clinic capacity agent a human-accountable operating layer for the specific workflow, with every exception, source and owner traceable; expand only after permission and measurable operational gain are proven.\
+\
+\### Mission\
+\
+Start with Read-only specialty cancellation-fill candidate queue with scheduler approval; no automatic booking. Win a governed paid pilot by showing the buyer where existing workflow fails and who must approve each action.\
+\
+\### Problem\
+\
+Cancellation slots and waitlisted referrals do not line up with clinician templates, rooms, visit duration, authorization, language and transport constraints. Existing tools or staff already address portions of this workflow; switching costs and authorized data access must be tested.\
+\
+\### Solutions\
+\
+(1) Capacity and template visibility; (2) cancellation-fill candidate queue with opt-in outreach drafts; (3) referral triage/routing \*for staff approval\*; (4) procedure/resource constraint simulator; (5) access-equity and leakage analytics by clinic/location/patient segment.\
+\
+\### Target customer\
+\
+Multi-site specialty-practice COO or ambulatory access director; scheduler manager is the daily operator. First validation target: Specialty practice administrators, access departments and practice-management consultants; offer a one-week cancellation replay.\
+\
+\### Core product and pricing\
+\
+First product: Read-only specialty cancellation-fill candidate queue with scheduler approval; no automatic booking. The following is a hypothetical test price, not an observed market price or offer: Hypothetical test price: $900 per specialty site per month plus $2,000 setup; test per-site versus provider-based budgeting. A pilot must have written scope, owner and review gate; no claim of reimbursement, clinical outcome or ROI.\
+\
+\### Product detail description\
+\
+The five sellable offers are exactly the source modules: (1) Capacity and template visibility; (2) cancellation-fill candidate queue with opt-in outreach drafts; (3) referral triage/routing \*for staff approval\*; (4) procedure/resource constraint simulator; (5) access-equity and leakage analytics by clinic/location/patient segment. Differentiator in the first demo: Synthetic dermatology clinic Tuesday: 30-minute cancellation, three waitlist candidates, room constraint and interpreter requirement; show why two are excluded and how a scheduler chooses the third. Every stage requires an identified human reviewer and source-linked audit trail; integration is a discovery question, not a present capability.\
+\
+\### Website and app experience\
+\
+Brief for a future validation page, not a request to build a site: hero 'Make specialty appointment capacity visible before a scheduler fills the slot.' with a clinic capacity agent-specific workflow graphic; one concrete before/after operational bottleneck; five offers; demo image marked DEMO; alternatives/tradeoffs; evidence and limitations; pilot CTA asking for the relevant operations role. App concept: Clinic-day constraint map: clinician, room, visit length, equipment, payer/authorization, interpreter and transport; candidate rationale and scheduler approval. Hide all actual patient/provider identifiers; never display automatic diagnosis, treatment or clinical recommendations.\
+\
+\### LinkedIn go-to-market\
+\
+Start with the named buyer and adjacent operator, not broad healthcare targeting. Specialty practice administrators, access departments and practice-management consultants; offer a one-week cancellation replay. Share a concise workflow teardown with one real source link from the research file, invite a scoped process audit, and record role, institution type and reply reason. No clinical efficacy or compliance claims.\
+\
+\### Why this could become a million-dollar product\
+\
+Revenue hypothesis, not a valuation or TAM fact: sell the initial Read-only specialty cancellation-fill candidate queue with scheduler approval; no automatic booking. at a tested per-account price, then expand across sites/workflows if authorized access, incumbent differentiation and repeatable onboarding hold. Disconfirm the thesis if Stop if exports omit required resources or scheduling write-back is unavailable and the read-only queue creates more work than it saves. No invented TAM or guaranteed savings.\
+\
+\### Initial MVP scope\
+\
+ONLY a synthetic-data read-only demonstration of Read-only specialty cancellation-fill candidate queue with scheduler approval; no automatic booking. Include explicit DEMO label, exception provenance, reviewer queue, uncertainty/abstention and manual approval. Exclude live integrations, outbound messages, patient contact, writes to clinical/administrative systems, automated determinations and PHI. Next step is Replay historical appointment, cancellation and waitlist exports for two specialty groups; compare suggested fills with schedulers and obtain a paid pilot letter contingent on interface permissions.\
+\
+\### Validation website\
+\
+Future one-page validation specification only: headline 'Make specialty appointment capacity visible before a scheduler fills the slot.', three-step visual of Synthetic dermatology clinic Tuesday: 30-minute cancellation, three waitlist candidates, room constraint and interpreter requirement; show why two are excluded and how a scheduler chooses the third., source-backed problem statement, five offer cards drawn exactly from source, pricing clearly labeled hypothetical test price, 'Request a scoped pilot' CTA and explicit 'concept DEMO; not clinical guidance' disclosure. Do not build or deploy a website in this assignment.\
+\
+\### Fake CRM demo — clearly labeled concept preview\
+\
+Synthetic-only object model: Appointment slot, referral, waitlist candidate, opt-in outreach permission, scheduling owner and constraint version; fictional identifiers only. Build three illustrative records: clean handoff, ambiguous exception requiring review, and blocked/abstained case. Timestamp changes and show owner; never populate real PHI or imply a real portal/EHR connection.\
+\
+\### Validation-first website structure\
+\
+(1) Interview buyer/operator/safety or compliance owner separately; (2) document incumbent workflow and observed baseline; (3) show synthetic exception demo and test willingness to pay at the hypothetical price; (4) seek bounded export/data rights and human-reviewed retrospective replay: Replay historical appointment, cancellation and waitlist exports for two specialty groups; compare suggested fills with schedulers and obtain a paid pilot letter contingent on interface permissions. (5) agree on endpoint, guardrails and explicit stop rule before a live build.\
+\
+\### Product screenshot to produce\
+\
+Static, conceptual product capture only: Clinic-day constraint map: clinician, room, visit length, equipment, payer/authorization, interpreter and transport; candidate rationale and scheduler approval. Include visible DEMO/SYNTHETIC DATA watermark, readable source and timestamps, reviewer identity as fictional role, unresolved/abstain state and no PHI. Do not fabricate a screenshot of a production integration, actual patient, government portal or validated decision.\
+\
+\### Fake CRM demo rules\
+\
+Use fictional names, dates and non-routable example identifiers; no imported EHR, CRM, prescription, claims or government records. Schema: Appointment slot, referral, waitlist candidate, opt-in outreach permission, scheduling owner and constraint version; fictional identifiers only. Unsent actions remain unsent; manual reviewer decisions are visibly attributed and reversible. DEMO watermark on every screen. No diagnosis, treatment, patient outreach or PHI in preview; no healthcare compliance claims.\
+\
+\### Ad and traffic test plans\
+\
+LinkedIn specialty-COO ad offering a cancellation replay; landing page asks for specialty, site count and scheduling system, never patient data. Two variants: workflow-specific exception vs baseline/manual-audit framing; same buyer geography and spend cap. Log impressions, qualified visits, role-confirmed pilot requests and drop-offs; avoid lookalike audiences built from patient information. Stop ads if misleading interpretation is reported.\
+\
+\### Validation metric\
+\
+Primary: feasible cancellation slots filled within the original template window compared with matched baseline; guardrails: scheduler review minutes and constraint violations. Interview/pilot readiness gate: 8 specialty access/COO interviews, 2 export/replay commitments, 1 paid pilot letter with named scheduler owner. Track denominator, baseline window, decision-maker role and uncertainty; ad clicks alone are not validation.\
+\
+\### Build decision\
+\
+Proceed to a limited governed pilot only after 8 specialty access/COO interviews, 2 export/replay commitments, 1 paid pilot letter with named scheduler owner. Plus signed data-access/security and human oversight approvals. Kill or reposition if Stop if exports omit required resources or scheduling write-back is unavailable and the read-only queue creates more work than it saves. Do not infer clinical benefit, coding validity, billability or regulatory compliance from a synthetic demo.\
+\
+\### Notion tracking fields to add later\
+\
+Parent-managed tracking proposal only (do not touch Notion): concept_number=22; working_title=Clinic Capacity Agent; buyer_role; operator_role; sponsor; interview_date; incumbent; baseline_source; data_rights_status; safety/compliance_owner; offer_of_interest; hypothetical_test_price_response; demo_objection; retrospective_cohort_status; pilot_budget_owner; pilot_commitment; primary_metric='Primary: feasible cancellation slots filled within the original template window compared with matched baseline; guardrails: scheduler review minutes and constraint violations.'; stop_rule; next_action; evidence_url; screenshot_verified_by_parent.\
+\
+\### Builder execution brief\
+\
+A future builder should implement only after validation: Read-only specialty cancellation-fill candidate queue with scheduler approval; no automatic booking. Input contracts, reviewer role, evidence provenance, permission states and exception criteria must be specified with the pilot sponsor. For the present handoff, produce a written static preview specification only. Use the scenario 'Synthetic dermatology clinic Tuesday: 30-minute cancellation, three waitlist candidates, room constraint and interpreter requirement; show why two are excluded and how a scheduler chooses the third.' with synthetic records and a visible DEMO state. No live EHR/EVV/ERP/portal integration, diagnosis, treatment, PHI or healthcare compliance assertion.\
+\
+\### Required deliverables\
+\
+For parent review: this concept's complete brief; preserved five source offers; one synthetic three-case CRM scenario specification; one screenshot storyboard (Clinic-day constraint map: clinician, room, visit length, equipment, payer/authorization, interpreter and transport; candidate rationale and scheduler approval.); one validation page copy outline; ad A/B copy angles; interview prompts for buyer/operator/oversight owner; pilot gate, metric and kill rule. Parent handles name checks, actual screenshots and Notion publication. No website build.\
+\
+\### Page structure to be built\
+\
+Notion-ready section order for parent: thesis and caveats; buyer/problem and incumbent alternatives; the exact five offers; Read-only specialty cancellation-fill candidate queue with scheduler approval; no automatic booking. demo narrative; hypothetical pricing; screenshot storyboard; synthetic CRM rules; validation-first plan and traffic test; metric, pilot prerequisites and stop rule; source links from healthcare.md section 22. Keep title explicitly provisional.\
+\
+\### Screenshot requirements\
+\
+Storyboard, not an actual captured screenshot: Clinic-day constraint map: clinician, room, visit length, equipment, payer/authorization, interpreter and transport; candidate rationale and scheduler approval. Show 16:9 desktop frame and mobile crop plan, legible fictional identifiers, DEMO/SYNTHETIC DATA in frame, owner and dated evidence; avoid logos/portal UI that imply endorsement. Parent must capture and verify final screenshots separately.\
+\
+\### Copyright rules\
+\
+Use original diagrams, fictional entities and newly written copy; cite official and vendor URLs from healthcare.md section 22 rather than copying their prose or interface. Do not use third-party screenshots, trademarks, logos or product UI without permission. Working title is not a cleared mark.\
+\
+\### Waitlist and analytics setup\
+\
+Future opt-in B2B pilot inquiry only: role, organization, work email, site/region and answer to the single workflow-fit question; no patients, clinical details or uploaded records. Record consent timestamp and notice version, source/UTM, CTA, qualified-lead status and deletion request path; collect minimum necessary and do not deploy tracking in this assignment.\
+\
+\### Ad guideline for builder\
+\
+Ad creative must address Multi-site specialty-practice COO or ambulatory access director; scheduler manager is the daily operator. with an operations-learning offer, not efficacy: LinkedIn specialty-COO ad offering a cancellation replay; landing page asks for specialty, site count and scheduling system, never patient data. State that the example is a concept DEMO and price is hypothetical; no individualized patient attributes, diagnoses/treatment claims, guaranteed savings, billing assurances or healthcare compliance claims. Pause on misleading interpretation.\
+\
+\### Quality checklist before pushing\
+\
+Check exact five source offers retained in order; buyer and competing alternative are concrete; synthetic-only DEMO is visible; no PHI, diagnosis, treatment, live integration or healthcare compliance claims; hypothetical price label is explicit; Primary: feasible cancellation slots filled within the original template window compared with matched baseline; guardrails: scheduler review minutes and constraint violations. includes baseline and guardrail; Stop if exports omit required resources or scheduling write-back is unavailable and the read-only queue creates more work than it saves. is a real stop condition; cited claims trace to healthcare.md section 22; parent owns name/screenshot/Notion verification.\
+\
+\### Definition of done\
+\
+Brief is complete when all required fields are populated, the five offers match healthcare.md section 22, an actionable synthetic demo and screenshot storyboard are specified, the price is labeled hypothetical, buyer/metric/paid-pilot gate/kill rule are explicit, and no site or external system has been changed. Pilot readiness is not claimed until 8 specialty access/COO interviews, 2 export/replay commitments, 1 paid pilot letter with named scheduler owner.\
+\
+\### Website screenshot — visual concept preview\
+\
+An actual rendered, concept-specific website screenshot is attached above; example data is synthetic and the product is not operating. File: screenshots/22-website-preview\.png. Do not mistake this image for a deployed site.\
+\
+\### Research links and five proposed product offers\
+\
+The pre-existing research section above lists five distinct product offers with direct citations, competitor alternatives, barriers and unanswered questions. Review it before building.\
+\
+\## Employee handoff — realistic demo and product directions\
+\
+Project number 22 / Appointment Dock. Category C. This is an employee execution brief for an honest concept-preview WEBSITE and an isolated, synthetic PRODUCT DEMO only. It does NOT authorize building a production product. Retain all five offers as separate tests; select one module for the first pilot.\
+\
+\### Product design direction\
+\
+Buyer: Multi-site specialty-practice COO or ambulatory access director; scheduler manager is the daily operator. First validation target: Specialty practice administrators, access departments and practice-management consultants; offer a one-week cancellation replay.\
+\
+Hero thesis: Make specialty appointment capacity visible before a scheduler fills the slot. Design a workbench around one concrete record and decision rather than a generic CRM. The principal screen should expose intake/source evidence, exceptions, review/approval state, owner and dated next action. Human approval is compulsory before any external/clinical/payment/physical action. Context-specific UI: Static, conceptual product capture only: Clinic-day constraint map: clinician, room, visit length, equipment, payer/authorization, interpreter and transport; candidate rationale and scheduler approval. Include visible DEMO/SYNTHETIC DATA watermark, readable source and timestamps, reviewer identity as fictional role, unresolved/abstain state and no PHI. Do not fabricate a screenshot of a production integration, actual patient, government portal or validated decision.\
+\
+\### Five product name ideas and saleable modules\
+\
+These are internal working names for five feature-line offers under the proposed brand, NOT independently verified trademarks or .com domains. They should be presented as optional product directions rather than five already-live plans.\
+\
+1\. 1. Appointment Dock Clinic Desk — Capacity and template visibility. Label: proposed module; pricing is a test hypothesis, not an active checkout.\
+2\. 2. Appointment Dock Clinic Review — cancellation-fill candidate queue with opt-in outreach drafts. Label: proposed module; pricing is a test hypothesis, not an active checkout.\
+3\. 3. Appointment Dock Clinic Proof — referral triage/routing for staff approval. Label: proposed module; pricing is a test hypothesis, not an active checkout.\
+4\. 4. Appointment Dock Clinic Signal — procedure/resource constraint simulator. Label: proposed module; pricing is a test hypothesis, not an active checkout.\
+5\. 5. Appointment Dock Clinic Report — access-equity and leakage analytics by clinic/location/patient segment. Label: proposed module; pricing is a test hypothesis, not an active checkout.\
+\
+\### How the demo screenshot becomes realistic\
+\
+First storyboard a specific event drawn from the cited market workflow: input artifact → exception or opportunity → linked source evidence → proposed next step → assigned reviewer → export. Seed 8–12 internally consistent fictional records with a plausible mix of pending, blocked, completed and rejected states, fictional owners, chronological timestamps, source-document references, and at least one honest edge case or failed recommendation. Set product numbers to match visible sample records; never imply measured ROI or live telemetry.\
+\
+Center the screenshot on this concept-specific scenario: Synthetic-only object model: Appointment slot, referral, waitlist candidate, opt-in outreach permission, scheduling owner and constraint version; fictional identifiers only. Build three illustrative records: clean handoff, ambiguous exception requiring review, and blocked/abstained case. Timestamp changes and show owner; never populate real PHI or imply a real portal/EHR connection.\
+\
+Produce a real browser capture of the prototype at 1440px width and a separate 390px mobile capture. Include a list/queue view, one opened record, a visible evidence/source pane and reviewer action, plus a detail/report view. Show user-feedback states and credible density, not a pasted AI-generated UI image. Pin persistent DEMO — SYNTHETIC DATA and CONCEPT PREVIEW badges on every frame; watermark charts/reports as illustrative. Review labels, numbers, typography and data consistency at 100% zoom.\
+\
+\### Evidence and claims checklist for the builder\
+\
+Existing image on this Notion page is a rendered website concept preview; it is NOT the required implementation screenshot or a deployed product screenshot. Recreate a new prototype screen according to the workflow above; attach the real capture here when done. Do not claim fake customers, partnership badges, security certifications, live integrations, saved money, reduced risk or a shipped SaaS. Product names, .com, legal position and pricing need final approval. Do not collect payment or sensitive records through the demo.\
+\
+Handoff acceptance: responsive site navigation and early-access messaging; separate labeled DEMO flow; no dead CTAs; consented lead form and privacy notice; source/campaign analytics; real preview screenshots with alt text; product/offer pages and hypothesis pricing; buyer-facing copy and pilot CTA; no analytics marked successful until a real qualified buyer commitment. Build decision remains: Proceed to a limited governed pilot only after 8 specialty access/COO interviews, 2 export/replay commitments, 1 paid pilot letter with named scheduler owner. Plus signed data-access/security and human oversight approvals. Kill or reposition if Stop if exports omit required resources or scheduling write-back is unavailable and the read-only queue creates more work than it saves. Do not infer clinical benefit, coding validity, billability or regulatory compliance from a synthetic demo.

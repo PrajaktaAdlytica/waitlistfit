@@ -1,0 +1,51 @@
+{
+  "version": "1.0",
+  "sceneList": "scenes.json",
+  "sharedPin": {
+    "scenes": [
+      "03",
+      "04",
+      "05"
+    ],
+    "containerSvh": 250,
+    "stickySvh": 100,
+    "travelSvh": 150,
+    "disableBelowWidth": 900,
+    "disableBelowHeight": 700,
+    "segments": [
+      {
+        "scene": "03",
+        "from": 0,
+        "to": 0.3333333333333333
+      },
+      {
+        "scene": "04",
+        "from": 0.3333333333333333,
+        "to": 0.6666666666666666
+      },
+      {
+        "scene": "05",
+        "from": 0.6666666666666666,
+        "to": 1
+      }
+    ]
+  },
+  "durationsMs": {
+    "micro": 160,
+    "state": 280,
+    "flap": 420,
+    "flapStagger": 24,
+    "flapMaximum": 900
+  },
+  "reducedMotion": "Static full evidence, no pinning, no spatial transforms, all controls retained",
+  "approval": "Explicit simulated action only; never scroll-driven",
+  "background": {
+    "ivory": "#F4F2EB",
+    "cream": "#F8F6F0",
+    "stone": "#E8E4DA",
+    "maxTranslatePx": 32,
+    "maxScale": 1.08,
+    "shapes": "Asymmetric ellipses, diagonal sweep, lower-left leaf cluster in hero"
+  },
+  "heights": "Provisional, content-driven minimums; never clip text to enforce them"
+}

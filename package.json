@@ -1,0 +1,22 @@
+{
+  "name": "waitlistfit",
+  "version": "1.0.0",
+  "private": true,
+  "description": "WaitListFit concept website and shared Remotion intro",
+  "engines": {
+    "node": "22.x"
+  },
+  "scripts": {
+    "postinstall": "npm ci --prefix WaitListFit-homepage --no-audit --no-fund",
+    "dev": "npm --prefix WaitListFit-homepage run dev --",
+    "build": "npm --prefix WaitListFit-homepage run build",
+    "test": "npm --prefix WaitListFit-homepage run test:sites",
+    "studio:install": "npm ci --prefix WaitListFit-intro-video",
+    "studio": "npm --prefix WaitListFit-intro-video run dev -- --no-open",
+    "check:video": "npm --prefix WaitListFit-intro-video run lint && npm --prefix WaitListFit-intro-video run build",
+    "preview": "npm --prefix WaitListFit-homepage run preview --"
+  },
+  "devDependencies": {
+    "vite": "6.4.2"
+  }
+}

@@ -1,0 +1,55 @@
+[
+  {
+    "test": "motion off",
+    "canvases": 0,
+    "intro": false,
+    "replayDisabled": true
+  },
+  {
+    "test": "motion enabled does not replay automatically",
+    "intro": 0
+  },
+  {
+    "test": "skip restores hero and focus",
+    "canvases": 0,
+    "focus": "hero-heading",
+    "intro": false
+  },
+  {
+    "test": "automatic ending",
+    "boardOpacity": "1",
+    "canvas": 0,
+    "heroInert": false,
+    "heroOpacity": "1",
+    "intro": false
+  },
+  {
+    "test": "reload respects once-per-session",
+    "intro": 0
+  },
+  {
+    "test": "Escape ends intro",
+    "intro": 0
+  },
+  {
+    "test": "native scroll exits intro",
+    "canvas": 0,
+    "intro": false,
+    "y": 450
+  },
+  {
+    "test": "navigation remains available during intro",
+    "url": "http://127.0.0.1:4173/request-replay",
+    "intro": 0
+  },
+  {
+    "test": "775x804 handoff layout",
+    "frame": "216",
+    "overflow": false
+  },
+  {
+    "test": "final tablet control clearance",
+    "gap": 4,
+    "overflow": false
+  }
+]

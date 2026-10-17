@@ -1,0 +1,7 @@
+// Explicit, local development diagnostic. Not included in the production bundle.
+const output=document.createElement('output');output.id='dev-motion-metrics';output.setAttribute('aria-label','Local scroll performance diagnostic');output.style.cssText='position:fixed;left:12px;bottom:12px;z-index:150;max-width:450px;padding:10px;background:#fff9e8f5;border:1px solid #ab9459;border-radius:8px;font:10px/1.6 monospace;pointer-events:none;color:#243d30';document.body.append(output);
+let samples=[],last=performance.now(),scrollTime=-1000,longTasks=[],activeMs=0;
+addEventListener('scroll',()=>scrollTime=performance.now(),{passive:true});
+try{new PerformanceObserver(list=>list.getEntries().forEach(e=>{if(e.startTime-scrollTime<300&&e.startTime-scrollTime>-60)longTasks.push(e.duration)})).observe({type:'longtask',buffered:false})}catch{}
+const frame=time=>{if(time-scrollTime<220&&time-last<1000){samples.push(time-last);activeMs+=time-last;}last=time;requestAnimationFrame(frame)};requestAnimationFrame(frame);
+setInterval(()=>{const sorted=[...samples].sort((a,b)=>a-b),at=p=>Math.round((sorted[Math.min(sorted.length-1,Math.floor(sorted.length*p))]||0)*10)/10;output.textContent=JSON.stringify({frames:samples.length,p50:at(.5),p95:at(.95),max:at(1),over24:samples.filter(n=>n>24).length,over50:samples.filter(n=>n>50).length,longTasks:longTasks.length,longTaskMs:Math.round(longTasks.reduce((a,b)=>a+b,0)),activeMs:Math.round(activeMs)});},500);

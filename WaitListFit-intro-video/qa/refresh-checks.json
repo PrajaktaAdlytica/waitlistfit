@@ -1,0 +1,26 @@
+{
+  "consecutive_refresh_1": {
+    "intro": true,
+    "scrollY": 0
+  },
+  "consecutive_refresh_2": {
+    "intro": true,
+    "scrollY": 0
+  },
+  "hash_refresh": {
+    "before": {
+      "hash": "#pricing",
+      "scrollY": 209
+    },
+    "after": {
+      "hash": "",
+      "scrollY": 0,
+      "intro": true
+    }
+  },
+  "build": "passed",
+  "sites_checks": {
+    "passed": 4,
+    "failed": 0
+  }
+}

@@ -1,0 +1,31 @@
+/* WaitListFit v2: use the shipped SVG logo masters. No website implementation included. */
+@font-face { font-family: "Public Sans"; src: url("../fonts/PublicSans-Variable.woff2") format("woff2"); font-weight: 100 900; font-display: swap; }
+:root {
+  --wlf-ink: #142C38;
+  --wlf-amber: #D9AF5D;
+  --wlf-mint: #DDECE5;
+  --wlf-sky: #EBF3F7;
+  --wlf-mist: #F3F8F7;
+  --wlf-white: #FFFFFF;
+  --wlf-teal: #285E58;
+  --wlf-muted: #536871;
+  --wlf-line: #CBD9DC;
+  --wlf-border: #72878D;
+  --wlf-pending: #79541B;
+  --wlf-pendingbg: #FCF2DD;
+  --wlf-blocked: #963E43;
+  --wlf-blockedbg: #FAECEC;
+  --wlf-focus: #236B80;
+  --wlf-font-sans: "Public Sans", system-ui, sans-serif;
+  --wlf-font-mono: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+  --wlf-radius-control: 6px;
+  --wlf-radius-panel: 12px;
+  --wlf-radius-board: 18px;
+  --wlf-motion-micro: 160ms;
+  --wlf-motion-state: 280ms;
+  --wlf-ease: cubic-bezier(0.22, 1, 0.36, 1);
+  --wlf-background: linear-gradient(110deg, #DDECE5 0%, #F3F8F7 48%, #EBF3F7 100%);
+}
+.wlf-time { font-family: var(--wlf-font-mono); font-variant-numeric: tabular-nums; }
+.wlf-focus:focus-visible { outline: 3px solid var(--wlf-focus); outline-offset: 3px; }
+@media (prefers-reduced-motion: reduce) { .wlf-motion { animation: none !important; transition: none !important; transform: none !important; } }

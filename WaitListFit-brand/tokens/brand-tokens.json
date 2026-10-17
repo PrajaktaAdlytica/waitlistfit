@@ -1,0 +1,74 @@
+{
+  "color": {
+    "paper": "#F7F4EC",
+    "ink": "#202E2A",
+    "pine": "#285447",
+    "sage": "#E3EBE3",
+    "apricot": "#E7AA7D",
+    "muted": "#59665E",
+    "line": "#D3DBD3",
+    "strong": "#7C8980",
+    "white": "#FFFFFF",
+    "amber": "#8A5A21",
+    "amberbg": "#F6EAD6",
+    "red": "#A3443C",
+    "redbg": "#F8E5E1",
+    "focus": "#544BB3",
+    "info": "#415B72",
+    "infobg": "#E9EFF4",
+    "actionHover": "#21473C",
+    "actionPressed": "#183C32",
+    "disabledSurface": "#DDE2DC",
+    "disabledText": "#69756E"
+  },
+  "type": {
+    "display": "Newsreader",
+    "body": "Public Sans",
+    "displayWeight": 400,
+    "bodyWeight": 400,
+    "labelWeight": 500,
+    "wordmarkWeight": 650
+  },
+  "radius": {
+    "control": 999,
+    "card": 16,
+    "chapter": 32
+  },
+  "space": [
+    4,
+    8,
+    12,
+    16,
+    24,
+    32,
+    48,
+    64,
+    96,
+    128
+  ],
+  "motion": {
+    "microMs": 180,
+    "panelMs": 320,
+    "chapterMs": 650,
+    "ease": "cubic-bezier(0.22, 1, 0.36, 1)",
+    "reduced": "static complete states"
+  },
+  "semantic": {
+    "canvas": "paper",
+    "surface": "white",
+    "textPrimary": "ink",
+    "textSecondary": "muted",
+    "action": "pine",
+    "focus": "focus",
+    "borderDecorative": "line",
+    "borderControl": "strong",
+    "readyText": "pine",
+    "readySurface": "sage",
+    "reviewText": "amber",
+    "reviewSurface": "amberbg",
+    "blockedText": "red",
+    "blockedSurface": "redbg",
+    "infoText": "info",
+    "infoSurface": "infobg"
+  }
+}

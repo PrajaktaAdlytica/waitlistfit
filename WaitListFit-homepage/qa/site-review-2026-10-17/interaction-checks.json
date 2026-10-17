@@ -1,0 +1,383 @@
+[
+  {
+    "control": "Desk view / source lane",
+    "passed": true
+  },
+  {
+    "control": "Proof missing evidence blocks review",
+    "passed": true
+  },
+  {
+    "control": "Proof manual review",
+    "passed": true
+  },
+  {
+    "control": "Proof reversal history",
+    "passed": true
+  },
+  {
+    "control": "Report location / segment denominator",
+    "passed": true
+  },
+  {
+    "control": "Signal hypothetical fit",
+    "passed": true
+  },
+  {
+    "control": "Signal room constraint",
+    "passed": true
+  },
+  {
+    "control": "Signal reset / evidence",
+    "passed": true
+  },
+  {
+    "control": "Pilot day 1",
+    "passed": true
+  },
+  {
+    "control": "Pilot day 2",
+    "passed": true
+  },
+  {
+    "control": "Pilot day 3",
+    "passed": true
+  },
+  {
+    "control": "Pilot day 4",
+    "passed": true
+  },
+  {
+    "control": "Pilot day 5",
+    "passed": true
+  },
+  {
+    "control": "Homepage manual approval",
+    "passed": true
+  },
+  {
+    "control": "Homepage review reversal",
+    "passed": true
+  },
+  {
+    "control": "Homepage exception 0",
+    "passed": true
+  },
+  {
+    "control": "Homepage exception 1",
+    "passed": true
+  },
+  {
+    "control": "Homepage exception 2",
+    "passed": true
+  },
+  {
+    "control": "Homepage module 0",
+    "passed": true
+  },
+  {
+    "control": "Homepage module 1",
+    "passed": true
+  },
+  {
+    "control": "Homepage module 2",
+    "passed": true
+  },
+  {
+    "control": "Homepage module 3",
+    "passed": true
+  },
+  {
+    "control": "Homepage module 4",
+    "passed": true
+  },
+  {
+    "control": "Homepage audience 0",
+    "passed": true
+  },
+  {
+    "control": "Homepage audience 1",
+    "passed": true
+  },
+  {
+    "control": "Homepage audience 2",
+    "passed": true
+  },
+  {
+    "control": "Homepage day 0",
+    "passed": true
+  },
+  {
+    "control": "Homepage day 1",
+    "passed": true
+  },
+  {
+    "control": "Homepage day 2",
+    "passed": true
+  },
+  {
+    "control": "Homepage day 3",
+    "passed": true
+  },
+  {
+    "control": "Homepage day 4",
+    "passed": true
+  },
+  {
+    "control": "Demo exception deep link",
+    "passed": true
+  },
+  {
+    "control": "Demo opens case 1",
+    "passed": true
+  },
+  {
+    "control": "Demo opens case 2",
+    "passed": true
+  },
+  {
+    "control": "Demo opens case 3",
+    "passed": true
+  },
+  {
+    "control": "Demo opens case 4",
+    "passed": true
+  },
+  {
+    "control": "Demo opens case 5",
+    "passed": true
+  },
+  {
+    "control": "Demo opens case 6",
+    "passed": true
+  },
+  {
+    "control": "Demo opens case 7",
+    "passed": true
+  },
+  {
+    "control": "Demo opens case 8",
+    "passed": true
+  },
+  {
+    "control": "Demo opens case 9",
+    "passed": true
+  },
+  {
+    "control": "Demo rationale 0",
+    "passed": true
+  },
+  {
+    "control": "Demo rationale 1",
+    "passed": true
+  },
+  {
+    "control": "Demo rationale 2",
+    "passed": true
+  },
+  {
+    "control": "Demo eight constraints + permission",
+    "passed": true
+  },
+  {
+    "control": "Demo manual handoff",
+    "passed": true
+  },
+  {
+    "control": "Demo source update / rejection / reversal",
+    "passed": true
+  },
+  {
+    "control": "Demo report",
+    "passed": true
+  },
+  {
+    "control": "Demo export preview",
+    "passed": true
+  },
+  {
+    "control": "Demo state / location / owner filters",
+    "passed": true
+  },
+  {
+    "control": "Demo empty search",
+    "passed": true
+  },
+  {
+    "control": "Demo blocked exception",
+    "passed": true
+  },
+  {
+    "control": "Inquiry required-field validation",
+    "passed": true
+  },
+  {
+    "control": "Replay prepare / contextual consent",
+    "passed": true
+  },
+  {
+    "control": "Inquiry local summary download",
+    "passed": true
+  },
+  {
+    "control": "Inquiry edit preserves values",
+    "passed": true
+  },
+  {
+    "control": "Inquiry clear",
+    "passed": true
+  },
+  {
+    "control": "Contact topic / local preparation",
+    "passed": true
+  },
+  {
+    "control": "Access-discussion preselection",
+    "passed": true
+  },
+  {
+    "control": "Guided demo / access local preparation",
+    "passed": true
+  },
+  {
+    "control": "Homepage FAQ 1",
+    "passed": true
+  },
+  {
+    "control": "Homepage FAQ 2",
+    "passed": true
+  },
+  {
+    "control": "Homepage FAQ 3",
+    "passed": true
+  },
+  {
+    "control": "Homepage FAQ 4",
+    "passed": true
+  },
+  {
+    "control": "Homepage FAQ 5",
+    "passed": true
+  },
+  {
+    "control": "Homepage FAQ 6",
+    "passed": true
+  },
+  {
+    "control": "Homepage FAQ 7",
+    "passed": true
+  },
+  {
+    "control": "Homepage FAQ 8",
+    "passed": true
+  },
+  {
+    "control": "Homepage FAQ 9",
+    "passed": true
+  },
+  {
+    "control": "Homepage FAQ 10",
+    "passed": true
+  },
+  {
+    "control": "Homepage FAQ 11",
+    "passed": true
+  },
+  {
+    "control": "Homepage FAQ 12",
+    "passed": true
+  },
+  {
+    "control": "Homepage consent timestamp / summary focus",
+    "passed": true
+  },
+  {
+    "control": "Homepage local download",
+    "passed": true
+  },
+  {
+    "control": "Homepage edit / focus return",
+    "passed": true
+  },
+  {
+    "control": "Home logo clears hash",
+    "passed": true
+  },
+  {
+    "control": "Departure board replay",
+    "passed": true
+  },
+  {
+    "control": "Back restores homepage reading position",
+    "passed": true,
+    "note": "Retested using a fixed visible navigation link; the earlier offscreen-link click itself scrolled before navigation."
+  },
+  {
+    "control": "Mobile drawer Escape / focus return",
+    "passed": true
+  },
+  {
+    "control": "Shared motion setting across routes",
+    "passed": true
+  },
+  {
+    "control": "Mobile drawer destination / unlock",
+    "passed": true
+  },
+  {
+    "control": "Mobile complete still state",
+    "passed": true
+  },
+  {
+    "control": "Paused mode preserves warm background",
+    "passed": true
+  },
+  {
+    "control": "Demo pending source-review request",
+    "passed": true
+  },
+  {
+    "control": "Mobile record back to queue",
+    "passed": true
+  },
+  {
+    "control": "Demo state summary filter 0",
+    "passed": true
+  },
+  {
+    "control": "Demo state summary filter 1",
+    "passed": true
+  },
+  {
+    "control": "Demo state summary filter 2",
+    "passed": true
+  },
+  {
+    "control": "Demo state summary filter 3",
+    "passed": true
+  },
+  {
+    "control": "Demo state summary filter 4",
+    "passed": true
+  },
+  {
+    "control": "Demo state summary filter 5",
+    "passed": true
+  },
+  {
+    "control": "Mobile queue-back focus",
+    "passed": true
+  },
+  {
+    "control": "Empty-filter reset focus",
+    "passed": true
+  },
+  {
+    "control": "Mobile inquiry confirmation remains below header",
+    "passed": true
+  },
+  {
+    "control": "Missing source has no fabricated timestamp / owner",
+    "passed": true
+  }
+]

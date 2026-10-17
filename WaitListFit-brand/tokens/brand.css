@@ -1,0 +1,38 @@
+/* WaitListFit brand assets; no website implementation. */
+@font-face { font-family: "Newsreader"; src: url("../fonts/newsreader.woff2") format("woff2"); font-weight: 200 800; font-display: swap; }
+@font-face { font-family: "Public Sans"; src: url("../fonts/publicsans.woff2") format("woff2"); font-weight: 100 900; font-display: swap; }
+:root {
+  --wlf-paper: #F7F4EC;
+  --wlf-ink: #202E2A;
+  --wlf-pine: #285447;
+  --wlf-sage: #E3EBE3;
+  --wlf-apricot: #E7AA7D;
+  --wlf-muted: #59665E;
+  --wlf-line: #D3DBD3;
+  --wlf-strong: #7C8980;
+  --wlf-white: #FFFFFF;
+  --wlf-amber: #8A5A21;
+  --wlf-amberbg: #F6EAD6;
+  --wlf-red: #A3443C;
+  --wlf-redbg: #F8E5E1;
+  --wlf-focus: #544BB3;
+  --wlf-info: #415B72;
+  --wlf-infobg: #E9EFF4;
+  --wlf-font-display: "Newsreader", Georgia, serif;
+  --wlf-font-ui: "Public Sans", Arial, sans-serif;
+  --wlf-ease: cubic-bezier(0.22, 1, 0.36, 1);
+}
+
+:root {
+  --wlf-action-hover: #21473C;
+  --wlf-action-pressed: #183C32;
+  --wlf-disabled-surface: #DDE2DC;
+  --wlf-disabled-text: #69756E;
+  --wlf-canvas: var(--wlf-paper);
+  --wlf-surface: var(--wlf-white);
+  --wlf-text-primary: var(--wlf-ink);
+  --wlf-text-secondary: var(--wlf-muted);
+  --wlf-action: var(--wlf-pine);
+  --wlf-border-control: var(--wlf-strong);
+  --wlf-border-decorative: var(--wlf-line);
+}

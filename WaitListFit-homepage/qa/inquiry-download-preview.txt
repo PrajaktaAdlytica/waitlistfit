@@ -1,0 +1,14 @@
+WAITLISTFIT — LOCAL REPLAY INQUIRY PREVIEW
+Not sent.
+
+role: Scheduler manager
+organization: Example Group
+email: test@example.com
+specialty: Dermatology
+sites: 1 site
+region: Example state
+system: Example system
+workflow: Synthetic example: confirm room and interpreter constraints.
+consent: acknowledged
+
+No patient records. Notice v1, 16 October 2026.

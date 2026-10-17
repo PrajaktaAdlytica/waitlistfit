@@ -1,0 +1,56 @@
+[
+  {
+    "url": "https://docs.oracle.com/en/industries/health/millennium-platform-apis/fhir-authorization-framework/",
+    "response": "200 https://docs.oracle.com/en/industries/health/millennium-platform-apis/fhir-authorization-framework/",
+    "error": "",
+    "exit": 0
+  },
+  {
+    "url": "https://hl7.org/fhir/R4/appointment.html",
+    "response": "200 https://hl7.org/fhir/R4/appointment.html",
+    "error": "",
+    "exit": 0
+  },
+  {
+    "url": "https://hl7.org/fhir/R4/schedule.html",
+    "response": "200 https://hl7.org/fhir/R4/schedule.html",
+    "error": "",
+    "exit": 0
+  },
+  {
+    "url": "https://hl7.org/fhir/R4/slot.html",
+    "response": "200 https://hl7.org/fhir/R4/slot.html",
+    "error": "",
+    "exit": 0
+  },
+  {
+    "url": "https://isp.healthit.gov/uscdi-data/appointment",
+    "response": "403 https://isp.healthit.gov/uscdi-data/appointment",
+    "error": "",
+    "exit": 0
+  },
+  {
+    "url": "https://isp.healthit.gov/uscdi-data/schedule",
+    "response": "403 https://isp.healthit.gov/uscdi-data/schedule",
+    "error": "",
+    "exit": 0
+  },
+  {
+    "url": "https://kyruushealth.com/solutions/schedule-for-health-systems/",
+    "response": "200 https://kyruushealth.com/solutions/schedule-for-health-systems/",
+    "error": "",
+    "exit": 0
+  },
+  {
+    "url": "https://www.epic.com/software/appointment-scheduling/",
+    "response": "200 https://www.epic.com/software/appointment-scheduling/",
+    "error": "",
+    "exit": 0
+  },
+  {
+    "url": "https://www.qventus.com/solutions/surgical-services/",
+    "response": "200 https://www.qventus.com/solutions/surgical-services/",
+    "error": "",
+    "exit": 0
+  }
+]

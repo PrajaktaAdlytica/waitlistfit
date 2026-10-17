@@ -1,0 +1,98 @@
+[
+  {
+    "role": "Primary text",
+    "foreground": "#142C38",
+    "background": "#F3F8F7",
+    "ratio": 13.53,
+    "minimum": 4.5,
+    "required": true
+  },
+  {
+    "role": "Secondary text",
+    "foreground": "#536871",
+    "background": "#F3F8F7",
+    "ratio": 5.46,
+    "minimum": 4.5,
+    "required": true
+  },
+  {
+    "role": "Text on mint",
+    "foreground": "#142C38",
+    "background": "#DDECE5",
+    "ratio": 11.89,
+    "minimum": 4.5,
+    "required": true
+  },
+  {
+    "role": "Text on sky",
+    "foreground": "#142C38",
+    "background": "#EBF3F7",
+    "ratio": 12.92,
+    "minimum": 4.5,
+    "required": true
+  },
+  {
+    "role": "Primary CTA",
+    "foreground": "#142C38",
+    "background": "#D9AF5D",
+    "ratio": 7.08,
+    "minimum": 4.5,
+    "required": true
+  },
+  {
+    "role": "Reverse text",
+    "foreground": "#FFFFFF",
+    "background": "#142C38",
+    "ratio": 14.51,
+    "minimum": 4.5,
+    "required": true
+  },
+  {
+    "role": "Pending label",
+    "foreground": "#79541B",
+    "background": "#FCF2DD",
+    "ratio": 6.1,
+    "minimum": 4.5,
+    "required": true
+  },
+  {
+    "role": "Blocked label",
+    "foreground": "#963E43",
+    "background": "#FAECEC",
+    "ratio": 5.96,
+    "minimum": 4.5,
+    "required": true
+  },
+  {
+    "role": "Review label",
+    "foreground": "#285E58",
+    "background": "#DDECE5",
+    "ratio": 6.07,
+    "minimum": 4.5,
+    "required": true
+  },
+  {
+    "role": "Focus ring",
+    "foreground": "#236B80",
+    "background": "#FFFFFF",
+    "ratio": 6.02,
+    "minimum": 3,
+    "required": true
+  },
+  {
+    "role": "Control boundary",
+    "foreground": "#72878D",
+    "background": "#FFFFFF",
+    "ratio": 3.77,
+    "minimum": 3,
+    "required": true
+  },
+  {
+    "role": "Amber on white - decorative only",
+    "foreground": "#D9AF5D",
+    "background": "#FFFFFF",
+    "ratio": 2.05,
+    "minimum": 4.5,
+    "required": false
+  }
+]

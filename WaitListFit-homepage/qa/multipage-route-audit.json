@@ -1,0 +1,486 @@
+{
+  "desktop": [
+    {
+      "brokenImages": [],
+      "h1": "Make specialty appointment\ncapacity visible before a\nscheduler fills the slot.",
+      "headings": 1,
+      "main": true,
+      "overflow": false,
+      "path": "/",
+      "title": "Specialty appointment capacity, made visible | WaitListFit"
+    },
+    {
+      "brokenImages": [],
+      "h1": "The opening is obvious. The fit is not.",
+      "headings": 1,
+      "main": true,
+      "overflow": false,
+      "path": "/problem",
+      "title": "The specialty scheduling problem | WaitListFit"
+    },
+    {
+      "brokenImages": [],
+      "h1": "Follow the opening. Keep the reasoning.",
+      "headings": 1,
+      "main": true,
+      "overflow": false,
+      "path": "/how-it-works",
+      "title": "How the proposed workflow works | WaitListFit"
+    },
+    {
+      "brokenImages": [],
+      "h1": "One clinic day. Five ways to see it more clearly.",
+      "headings": 1,
+      "main": true,
+      "overflow": false,
+      "path": "/products",
+      "title": "Five proposed product modules | WaitListFit"
+    },
+    {
+      "brokenImages": [],
+      "h1": "See the context behind every opening.",
+      "headings": 1,
+      "main": true,
+      "overflow": false,
+      "path": "/products/clinic-desk",
+      "title": "Clinic Desk — Capacity and template visibility | WaitListFit"
+    },
+    {
+      "brokenImages": [],
+      "h1": "An opening. A reason. A person to review it.",
+      "headings": 1,
+      "main": true,
+      "overflow": false,
+      "path": "/products/clinic-review",
+      "title": "Clinic Review — Cancellation-fill candidate queue with opt-in outreach drafts | WaitListFit"
+    },
+    {
+      "brokenImages": [],
+      "h1": "Give the referral a clear next owner.",
+      "headings": 1,
+      "main": true,
+      "overflow": false,
+      "path": "/products/clinic-proof",
+      "title": "Clinic Proof — Referral triage/routing for staff approval | WaitListFit"
+    },
+    {
+      "brokenImages": [],
+      "h1": "Explore the change before changing the day.",
+      "headings": 1,
+      "main": true,
+      "overflow": false,
+      "path": "/products/clinic-signal",
+      "title": "Clinic Signal — Procedure/resource constraint simulator | WaitListFit"
+    },
+    {
+      "brokenImages": [],
+      "h1": "Keep the denominator in the picture.",
+      "headings": 1,
+      "main": true,
+      "overflow": false,
+      "path": "/products/clinic-report",
+      "title": "Clinic Report — Access-equity and leakage analytics by clinic/location/patient segment | WaitListFit"
+    },
+    {
+      "brokenImages": [],
+      "h1": "Every exception needs a source and an owner.",
+      "headings": 1,
+      "main": true,
+      "overflow": false,
+      "path": "/platform",
+      "title": "Platform concept & evidence model | WaitListFit"
+    },
+    {
+      "brokenImages": [],
+      "h1": "The same opening. Different responsibilities.",
+      "headings": 1,
+      "main": true,
+      "overflow": false,
+      "path": "/solutions",
+      "title": "Who WaitListFit is for | WaitListFit"
+    },
+    {
+      "brokenImages": [],
+      "h1": "Start with one specialty. Understand one clinic day.",
+      "headings": 1,
+      "main": true,
+      "overflow": false,
+      "path": "/solutions/specialty-practices",
+      "title": "Specialty practices | WaitListFit"
+    },
+    {
+      "brokenImages": [],
+      "h1": "See the opening. Keep the ownership.",
+      "headings": 1,
+      "main": true,
+      "overflow": false,
+      "path": "/solutions/access-departments",
+      "title": "Access departments | WaitListFit"
+    },
+    {
+      "brokenImages": [],
+      "h1": "Turn a workflow audit into a reviewable next step.",
+      "headings": 1,
+      "main": true,
+      "overflow": false,
+      "path": "/solutions/practice-consultants",
+      "title": "Practice-management consultants | WaitListFit"
+    },
+    {
+      "brokenImages": [],
+      "h1": "Evidence first. A decision second.",
+      "headings": 1,
+      "main": true,
+      "overflow": false,
+      "path": "/evaluation",
+      "title": "Evaluation method & pilot readiness | WaitListFit"
+    },
+    {
+      "brokenImages": [],
+      "h1": "One week to ask a better capacity question.",
+      "headings": 1,
+      "main": true,
+      "overflow": false,
+      "path": "/pilot",
+      "title": "The one-week cancellation replay | WaitListFit"
+    },
+    {
+      "brokenImages": [],
+      "h1": "Start with scope. Test the commercial fit.",
+      "headings": 1,
+      "main": true,
+      "overflow": false,
+      "path": "/pricing",
+      "title": "Hypothetical pilot pricing | WaitListFit"
+    },
+    {
+      "brokenImages": [],
+      "h1": "One opening.\nThe whole decision in view.",
+      "headings": 1,
+      "main": true,
+      "overflow": false,
+      "path": "/demo",
+      "title": "Synthetic cancellation review workbench | WaitListFit"
+    },
+    {
+      "brokenImages": [],
+      "h1": "Bring one specialty. Start with one opening.",
+      "headings": 1,
+      "main": true,
+      "overflow": false,
+      "path": "/request-replay",
+      "title": "Prepare a replay inquiry | WaitListFit"
+    },
+    {
+      "brokenImages": [],
+      "h1": "See the reasoning. Ask the hard questions.",
+      "headings": 1,
+      "main": true,
+      "overflow": false,
+      "path": "/request-demo",
+      "title": "Plan a synthetic walkthrough | WaitListFit"
+    },
+    {
+      "brokenImages": [],
+      "h1": "A clear boundary is part of the product.",
+      "headings": 1,
+      "main": true,
+      "overflow": false,
+      "path": "/governance",
+      "title": "Governance & human accountability | WaitListFit"
+    },
+    {
+      "brokenImages": [],
+      "h1": "Find the missing source before building the workflow.",
+      "headings": 1,
+      "main": true,
+      "overflow": false,
+      "path": "/data-requirements",
+      "title": "Data and permission discovery | WaitListFit"
+    },
+    {
+      "brokenImages": [],
+      "h1": "Follow the source. Question the assumption.",
+      "headings": 1,
+      "main": true,
+      "overflow": false,
+      "path": "/resources",
+      "title": "Research & field guides | WaitListFit"
+    },
+    {
+      "brokenImages": [],
+      "h1": "Replay the opening. Keep the context.",
+      "headings": 1,
+      "main": true,
+      "overflow": false,
+      "path": "/resources/cancellation-replay",
+      "title": "Field guide: the cancellation replay | WaitListFit"
+    },
+    {
+      "brokenImages": [],
+      "h1": "Scheduling data is not scheduling permission.",
+      "headings": 1,
+      "main": true,
+      "overflow": false,
+      "path": "/resources/scheduling-data-and-permissions",
+      "title": "Field guide: scheduling data & permissions | WaitListFit"
+    },
+    {
+      "brokenImages": [],
+      "h1": "A clearer next step, with a person accountable for it.",
+      "headings": 1,
+      "main": true,
+      "overflow": false,
+      "path": "/about",
+      "title": "About the WaitListFit concept | WaitListFit"
+    },
+    {
+      "brokenImages": [],
+      "h1": "A useful conversation starts with context.",
+      "headings": 1,
+      "main": true,
+      "overflow": false,
+      "path": "/contact",
+      "title": "Business contact preview | WaitListFit"
+    },
+    {
+      "brokenImages": [],
+      "h1": "The next step starts with a conversation.",
+      "headings": 1,
+      "main": true,
+      "overflow": false,
+      "path": "/sign-in",
+      "title": "Sign in & workspace access status | WaitListFit"
+    },
+    {
+      "brokenImages": [],
+      "h1": "Privacy notice — concept preview",
+      "headings": 1,
+      "main": true,
+      "overflow": false,
+      "path": "/legal/privacy",
+      "title": "Privacy notice — concept preview | WaitListFit"
+    },
+    {
+      "brokenImages": [],
+      "h1": "Terms — concept preview",
+      "headings": 1,
+      "main": true,
+      "overflow": false,
+      "path": "/legal/terms",
+      "title": "Terms — concept preview | WaitListFit"
+    },
+    {
+      "brokenImages": [],
+      "h1": "Accessibility & motion",
+      "headings": 1,
+      "main": true,
+      "overflow": false,
+      "path": "/accessibility",
+      "title": "Accessibility & motion | WaitListFit"
+    },
+    {
+      "brokenImages": [],
+      "h1": "This route has no assigned berth.",
+      "headings": 1,
+      "main": true,
+      "overflow": false,
+      "path": "/this-route-does-not-exist",
+      "title": "Page not found | WaitListFit"
+    }
+  ],
+  "mobile": [
+    {
+      "brokenImages": [],
+      "h1": 1,
+      "overflow": false,
+      "path": "/"
+    },
+    {
+      "brokenImages": [],
+      "h1": 1,
+      "overflow": false,
+      "path": "/problem"
+    },
+    {
+      "brokenImages": [],
+      "h1": 1,
+      "overflow": false,
+      "path": "/how-it-works"
+    },
+    {
+      "brokenImages": [],
+      "h1": 1,
+      "overflow": false,
+      "path": "/products"
+    },
+    {
+      "brokenImages": [],
+      "h1": 1,
+      "overflow": false,
+      "path": "/products/clinic-desk"
+    },
+    {
+      "brokenImages": [],
+      "h1": 1,
+      "overflow": false,
+      "path": "/products/clinic-review"
+    },
+    {
+      "brokenImages": [],
+      "h1": 1,
+      "overflow": false,
+      "path": "/products/clinic-proof"
+    },
+    {
+      "brokenImages": [],
+      "h1": 1,
+      "overflow": false,
+      "path": "/products/clinic-signal"
+    },
+    {
+      "brokenImages": [],
+      "h1": 1,
+      "overflow": false,
+      "path": "/products/clinic-report"
+    },
+    {
+      "brokenImages": [],
+      "h1": 1,
+      "overflow": false,
+      "path": "/platform"
+    },
+    {
+      "brokenImages": [],
+      "h1": 1,
+      "overflow": false,
+      "path": "/solutions"
+    },
+    {
+      "brokenImages": [],
+      "h1": 1,
+      "overflow": false,
+      "path": "/solutions/specialty-practices"
+    },
+    {
+      "brokenImages": [],
+      "h1": 1,
+      "overflow": false,
+      "path": "/solutions/access-departments"
+    },
+    {
+      "brokenImages": [],
+      "h1": 1,
+      "overflow": false,
+      "path": "/solutions/practice-consultants"
+    },
+    {
+      "brokenImages": [],
+      "h1": 1,
+      "overflow": false,
+      "path": "/evaluation"
+    },
+    {
+      "brokenImages": [],
+      "h1": 1,
+      "overflow": false,
+      "path": "/pilot"
+    },
+    {
+      "brokenImages": [],
+      "h1": 1,
+      "overflow": false,
+      "path": "/pricing"
+    },
+    {
+      "brokenImages": [],
+      "h1": 1,
+      "overflow": false,
+      "path": "/demo"
+    },
+    {
+      "brokenImages": [],
+      "h1": 1,
+      "overflow": false,
+      "path": "/request-replay"
+    },
+    {
+      "brokenImages": [],
+      "h1": 1,
+      "overflow": false,
+      "path": "/request-demo"
+    },
+    {
+      "brokenImages": [],
+      "h1": 1,
+      "overflow": false,
+      "path": "/governance"
+    },
+    {
+      "brokenImages": [],
+      "h1": 1,
+      "overflow": false,
+      "path": "/data-requirements"
+    },
+    {
+      "brokenImages": [],
+      "h1": 1,
+      "overflow": false,
+      "path": "/resources"
+    },
+    {
+      "brokenImages": [],
+      "h1": 1,
+      "overflow": false,
+      "path": "/resources/cancellation-replay"
+    },
+    {
+      "brokenImages": [],
+      "h1": 1,
+      "overflow": false,
+      "path": "/resources/scheduling-data-and-permissions"
+    },
+    {
+      "brokenImages": [],
+      "h1": 1,
+      "overflow": false,
+      "path": "/about"
+    },
+    {
+      "brokenImages": [],
+      "h1": 1,
+      "overflow": false,
+      "path": "/contact"
+    },
+    {
+      "brokenImages": [],
+      "h1": 1,
+      "overflow": false,
+      "path": "/sign-in"
+    },
+    {
+      "brokenImages": [],
+      "h1": 1,
+      "overflow": false,
+      "path": "/legal/privacy"
+    },
+    {
+      "brokenImages": [],
+      "h1": 1,
+      "overflow": false,
+      "path": "/legal/terms"
+    },
+    {
+      "brokenImages": [],
+      "h1": 1,
+      "overflow": false,
+      "path": "/accessibility"
+    },
+    {
+      "brokenImages": [],
+      "h1": 1,
+      "overflow": false,
+      "path": "/this-route-does-not-exist"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+[
+  {
+    "pair": "Body on paper",
+    "foreground": "#202E2A",
+    "background": "#F7F4EC",
+    "ratio": 12.86,
+    "threshold": 4.5
+  },
+  {
+    "pair": "Secondary on paper",
+    "foreground": "#59665E",
+    "background": "#F7F4EC",
+    "ratio": 5.48,
+    "threshold": 4.5
+  },
+  {
+    "pair": "Button label",
+    "foreground": "#F7F4EC",
+    "background": "#285447",
+    "ratio": 7.8,
+    "threshold": 4.5
+  },
+  {
+    "pair": "Body on sage",
+    "foreground": "#202E2A",
+    "background": "#E3EBE3",
+    "ratio": 11.62,
+    "threshold": 4.5
+  },
+  {
+    "pair": "Secondary on sage",
+    "foreground": "#59665E",
+    "background": "#E3EBE3",
+    "ratio": 4.95,
+    "threshold": 4.5
+  },
+  {
+    "pair": "Review ready",
+    "foreground": "#285447",
+    "background": "#E3EBE3",
+    "ratio": 7.05,
+    "threshold": 4.5
+  },
+  {
+    "pair": "Clarification",
+    "foreground": "#8A5A21",
+    "background": "#F6EAD6",
+    "ratio": 4.95,
+    "threshold": 4.5
+  },
+  {
+    "pair": "Blocked",
+    "foreground": "#A3443C",
+    "background": "#F8E5E1",
+    "ratio": 5.01,
+    "threshold": 4.5
+  },
+  {
+    "pair": "Information",
+    "foreground": "#415B72",
+    "background": "#E9EFF4",
+    "ratio": 6.11,
+    "threshold": 4.5
+  },
+  {
+    "pair": "Focus on paper",
+    "foreground": "#544BB3",
+    "background": "#F7F4EC",
+    "ratio": 6.3,
+    "threshold": 3
+  },
+  {
+    "pair": "Input boundary on white",
+    "foreground": "#7C8980",
+    "background": "#FFFFFF",
+    "ratio": 3.65,
+    "threshold": 3
+  },
+  {
+    "pair": "Input boundary on paper",
+    "foreground": "#7C8980",
+    "background": "#F7F4EC",
+    "ratio": 3.32,
+    "threshold": 3
+  }
+]

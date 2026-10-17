@@ -1,0 +1,22 @@
+{
+  "tool": "Built-in ImageGen",
+  "assetType": "Transparent raster PNG logo concepts",
+  "acceptedWebsiteDirection": {
+    "hero": "Departure Board split-flap hero retained",
+    "background": "Clinical Calm mint-blue continuous atmosphere retained",
+    "otherSections": "Berth Schedule timetable grid and typography"
+  },
+  "symbol": {
+    "meaning": "Two open berths form a W; an amber tile represents the candidate approaching an open slot.",
+    "prompt": "Use case: logo-brand.\nCreate a standalone professional logo SYMBOL for WaitListFit, a specialty clinic capacity concept. This is the actual clean symbol asset, not a presentation board.\nDesign: a distinctive compact geometric lowercase-w monogram built from TWO adjoining upward-open berth shapes. A single bold continuous deep ink-navy form creates two rectangular wells with gently rounded lower corners. Three vertical uprights share the same baseline and align to a rigorous grid. The rightmost upright is interrupted near the top by a small intentional gap, and an amber rectangular tile aligns immediately above that gap as the final missing piece approaching the berth. The amber tile is integral to the w silhouette, not a floating decorative dot. Make it read clearly as W at small size, not U or a shopping bag. The mark expresses structured appointment capacity and a candidate fitting an open slot. Quiet precision and a subtly human softness. No literal boats, anchor, medical cross, heart, leaf, clock, calendar, checkmark or arrows. No enclosing app tile.\nPalette: deep ink navy #142C38 for the main W, muted signal amber #D9AF5D for the single docking tile. Flat solid colors, no gradients, no shadows, no bevels, no 3D, no texture, no outlines. Clear wide negative spaces, refined proportions, optical balance, short upright strokes and substantial filled weight. Appropriate beside crisp grotesque typography and a split-flap hero on mint-blue atmospheric page background.\nOutput one centered standalone symbol with generous even transparent margins, high resolution 1024x1024. Genuinely TRANSPARENT BACKGROUND. No text, no brand name, no labels, no extra variants."
+  },
+  "lockup": {
+    "text": "WaitListFit",
+    "prompt": "Use case: logo-brand / compositing.\nCreate the primary horizontal logo lockup for WaitListFit using the attached standalone symbol as the mandatory exact symbol reference. Preserve its distinctive W silhouette, two rounded berth wells, ink-navy shape and separated amber tile on the right upright. Do not redesign, add detail or change its geometry. Scale it to sit on the left of a professionally drawn wordmark.\nExact text, one word with correct capitals: \"WaitListFit\". Spell W a i t L i s t F i t. Use a crisp refined grotesque sans with medium-semi-bold weight, excellent kerning, open counters, precise geometry and subtle softness; not a bubbly font, not italic, not monospace. All wordmark lettering deep ink navy #142C38. Wordmark dominant in width, symbol slightly taller than capital letters. Optical vertical centering, intentional gap approximately half the mark width between symbol and wordmark. Overall logo width about 5.5 times the total height. The logo must look like a premium specialty clinic operations company with timetable precision. Amber #D9AF5D stays only on symbol docking tile.\nONE horizontal lockup centered on genuine TRANSPARENT BACKGROUND with reasonable even margins; wide landscape 1536x512 or similar. Sharp flat vector-like edges, uniform solid colors. No shadow, gradients, bevel, grain, texture, physical mockup, tagline, URL, extra text, labels, alternate logos or presentation board. Maintain the attached symbol faithfully."
+  },
+  "colors": {
+    "ink": "#142C38",
+    "amber": "#D9AF5D"
+  },
+  "status": "Logo proposal. Not a vector master or trademark clearance."
+}

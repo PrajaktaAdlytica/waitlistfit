@@ -1,0 +1,94 @@
+{
+  "brand": "WaitListFit",
+  "version": "3.0",
+  "colors": {
+    "ink": "#142C38",
+    "amber": "#D9AF5D",
+    "stone": "#E8E4DA",
+    "cream": "#F8F6F0",
+    "ivory": "#F4F2EB",
+    "white": "#FFFFFF",
+    "teal": "#285E58",
+    "muted": "#536871",
+    "line": "#CBD9DC",
+    "border": "#72878D",
+    "pending": "#79541B",
+    "pendingbg": "#FCF2DD",
+    "blocked": "#963E43",
+    "blockedbg": "#FAECEC",
+    "focus": "#236B80"
+  },
+  "fonts": {
+    "sans": "Public Sans",
+    "mono": "ui-monospace, SFMono-Regular, Menlo, Consolas, monospace"
+  },
+  "type": {
+    "display": {
+      "desktop": 64,
+      "mobile": 38,
+      "weight": 700,
+      "lineHeight": 1.06,
+      "tracking": "-0.035em"
+    },
+    "h2": {
+      "desktop": 44,
+      "mobile": 30,
+      "weight": 600,
+      "lineHeight": 1.15
+    },
+    "h3": {
+      "desktop": 24,
+      "mobile": 22,
+      "weight": 600,
+      "lineHeight": 1.25
+    },
+    "body": {
+      "desktop": 18,
+      "mobile": 16,
+      "weight": 400,
+      "lineHeight": 1.6
+    },
+    "caption": {
+      "desktop": 14,
+      "mobile": 14,
+      "weight": 400,
+      "lineHeight": 1.45
+    }
+  },
+  "space": [
+    4,
+    8,
+    12,
+    16,
+    24,
+    32,
+    48,
+    64,
+    96,
+    128
+  ],
+  "radii": {
+    "control": 6,
+    "panel": 12,
+    "board": 18
+  },
+  "motion": {
+    "microMs": 160,
+    "stateMs": 280,
+    "flapMs": 420,
+    "flapStaggerMs": 24,
+    "maxFlapSequenceMs": 900,
+    "easing": "cubic-bezier(0.22, 1, 0.36, 1)",
+    "approvalTrigger": "explicit simulated user action only",
+    "reducedMotion": "static scene with all evidence visible"
+  },
+  "layout": {
+    "maxWidth": 1280,
+    "desktopColumns": 12,
+    "mobileColumns": 4,
+    "desktopGutter": 24,
+    "mobileGutter": 16,
+    "desktopMargin": 64,
+    "mobileMargin": 20
+  }
+}

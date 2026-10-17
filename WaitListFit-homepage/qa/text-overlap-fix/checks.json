@@ -1,0 +1,186 @@
+[
+  {
+    "label": "1440x810 evidence late scroll",
+    "motion": true,
+    "overflow": false,
+    "sections": [
+      {
+        "clearance": 70,
+        "linkBottom": 332.546875,
+        "name": "evidence",
+        "rowTop": 402.546875
+      },
+      {
+        "clearance": 203.5,
+        "linkBottom": 2869.890625,
+        "name": "pricing",
+        "rowTop": 3073.3828125
+      }
+    ],
+    "viewport": [
+      1440,
+      810
+    ]
+  },
+  {
+    "label": "775x804 pricing entry",
+    "motion": true,
+    "overflow": false,
+    "sections": [
+      {
+        "clearance": 40,
+        "linkBottom": -1989.296875,
+        "name": "evidence",
+        "rowTop": -1949.296875
+      },
+      {
+        "clearance": 275.9,
+        "linkBottom": 444.9765625,
+        "name": "pricing",
+        "rowTop": 720.875
+      }
+    ],
+    "viewport": [
+      775,
+      804
+    ]
+  },
+  {
+    "label": "775x804 pricing late scroll",
+    "motion": true,
+    "overflow": false,
+    "sections": [
+      {
+        "clearance": 40,
+        "linkBottom": -2310.796875,
+        "name": "evidence",
+        "rowTop": -2270.796875
+      },
+      {
+        "clearance": 40,
+        "linkBottom": 359.375,
+        "name": "pricing",
+        "rowTop": 399.375
+      }
+    ],
+    "viewport": [
+      775,
+      804
+    ]
+  },
+  {
+    "label": "390x844 evidence",
+    "motion": true,
+    "overflow": false,
+    "sections": [
+      {
+        "clearance": 625.2,
+        "linkBottom": 437.34375,
+        "name": "evidence",
+        "rowTop": 1062.515625
+      },
+      {
+        "clearance": 611.4,
+        "linkBottom": 2515.453125,
+        "name": "pricing",
+        "rowTop": 3126.8828125
+      }
+    ],
+    "viewport": [
+      390,
+      844
+    ]
+  },
+  {
+    "label": "390x844 pricing",
+    "motion": true,
+    "overflow": false,
+    "sections": [
+      {
+        "clearance": 625.2,
+        "linkBottom": -1679.65625,
+        "name": "evidence",
+        "rowTop": -1054.484375
+      },
+      {
+        "clearance": 611.4,
+        "linkBottom": 398.453125,
+        "name": "pricing",
+        "rowTop": 1009.8828125
+      }
+    ],
+    "viewport": [
+      390,
+      844
+    ]
+  },
+  {
+    "label": "1440x810 pricing late scroll",
+    "motion": true,
+    "overflow": false,
+    "sections": [
+      {
+        "clearance": 70,
+        "linkBottom": -2204.953125,
+        "name": "evidence",
+        "rowTop": -2134.953125
+      },
+      {
+        "clearance": 65,
+        "linkBottom": 470.8828125,
+        "name": "pricing",
+        "rowTop": 535.8828125
+      }
+    ],
+    "viewport": [
+      1440,
+      810
+    ]
+  },
+  {
+    "label": "1440x810 pricing motion paused",
+    "motion": false,
+    "overflow": false,
+    "sections": [
+      {
+        "clearance": 70,
+        "linkBottom": -3572.4140625,
+        "name": "evidence",
+        "rowTop": -3502.4140625
+      },
+      {
+        "clearance": 65,
+        "linkBottom": -1779.453125,
+        "name": "pricing",
+        "rowTop": -1714.453125
+      }
+    ],
+    "viewport": [
+      1440,
+      810
+    ]
+  },
+  {
+    "label": "1440x810 evidence reverse scroll",
+    "motion": true,
+    "overflow": false,
+    "sections": [
+      {
+        "clearance": 70,
+        "linkBottom": 438.046875,
+        "name": "evidence",
+        "rowTop": 508.046875
+      },
+      {
+        "clearance": 203.5,
+        "linkBottom": 2975.390625,
+        "name": "pricing",
+        "rowTop": 3178.8828125
+      }
+    ],
+    "viewport": [
+      1440,
+      810
+    ]
+  }
+]
